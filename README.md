@@ -5,12 +5,12 @@ You will also handle the case when the file is missing using a try–catch block
 
 You will complete the lab step by step.
 
-##Setup
+## Setup
 Create a new project named LabFileRead.
 Copy the Starter Code below into your Main.java file.
 Complete the TODOs in order (Part A → Part B → Part C).
 
-##starter code
+## Starter code
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
@@ -31,7 +31,7 @@ public class Main {
     }
 }
 
-##EXample output
+## EXample output
 
 Case 1 — File Exists
 
@@ -40,8 +40,8 @@ John: 85
 Sara: 92
 Mark: 78
 Case 2 — File Missing
+File not found!
 
-##Author
+## Author
 HAO
 
-File not found!
