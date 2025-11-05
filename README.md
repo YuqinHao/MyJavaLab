@@ -11,6 +11,7 @@ Copy the Starter Code below into your Main.java file.
 Complete the TODOs in order (Part A → Part B → Part C).
 
 ## Starter code
+```
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
@@ -29,19 +30,25 @@ public class Main {
             // TODO C1: Print "File not found!" if grades.txt is missing
         }
     }
-}
+```
 
 ## EXample output
 
 Case 1 — File Exists
 
 Student Grades:
+
 John: 85
+
 Sara: 92
+
 Mark: 78
+
 Case 2 — File Missing
+
 File not found!
 
 ## Author
+
 HAO
 
